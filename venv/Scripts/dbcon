@@ -1,0 +1,5 @@
+#!C:\Users\Sreelakshmi\PycharmProjects\pythonProject\venv\Scripts\python.exe
+import sys
+sys.path.append('.')
+import dbcon.cli
+dbcon.cli.main()
